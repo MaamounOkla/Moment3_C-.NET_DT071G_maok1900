@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Uppgift 3. Programmering i C# .NET, DT071G 
+// 2025-12-12 
+// Maamoun Okla maok1900@student.miun.se
+//=====================================
+using System;
 
 public class Program
 {
